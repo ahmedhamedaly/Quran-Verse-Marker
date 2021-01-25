@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'me_quran';
+}
+
+@font-face {
+    font-family: 'me_quran';
+      src: url('fonts/me_quran.eot'); /* IE9 Compat Modes */
+      src: url('fonts/me_quran.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('fonts/me_quran.woff2') format('woff2'), /* Super Modern Browsers */
+          url('fonts/me_quran.woff') format('woff'), /* Pretty Modern Browsers */
+          url('fonts/me_quran.ttf')  format('truetype'), /* Safari, Android, iOS */
+          url('fonts/me_quran.svg#svgFontName') format('svg'); /* Legacy iOS */
+      font-weight: 400;
+      font-style: normal;
+  }
